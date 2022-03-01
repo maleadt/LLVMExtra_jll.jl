@@ -9,3 +9,14 @@ os = "linux"
     [[LLVMExtra.download]]
     sha256 = "99e2d59ff5dff13a00841e9b652f0f8545f2b4361fa42b62664ce3108e3028e1"
     url = "https://github.com/maleadt/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.14+1/LLVMExtra.v0.0.14.x86_64-linux-gnu-cxx11-llvm_version+11.tar.gz"
+[[LLVMExtra]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b19be1113b9f94fcf165b9c977b2bad7c19051b1"
+libc = "glibc"
+llvm_version = "11.asserts"
+os = "linux"
+
+    [[LLVMExtra.download]]
+    sha256 = "96547b64a220c79e23395a084f88e58a35e16b1c1b9b3946f3810374d6fc78c5"
+    url = "https://github.com/maleadt/LLVMExtra_jll.jl/releases/download/LLVMExtra-v0.0.14+1/LLVMExtra.v0.0.14.x86_64-linux-gnu-cxx11-llvm_version+11.asserts.tar.gz"

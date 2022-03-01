@@ -16,7 +16,7 @@ The tarballs for `LLVMExtra_jll.jl` have been built from these sources:
 
 `LLVMExtra_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc, llvm_version=11}` (`x86_64-linux-gnu-cxx11-llvm_version+11`)
+* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc, llvm_version=11.asserts}` (`x86_64-linux-gnu-cxx11-llvm_version+11.asserts`)
 
 ## Products
 
